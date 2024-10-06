@@ -1,6 +1,6 @@
 # The `6-Figure Tech Writer` Resource Hub
 
-_Coming soon..._
+_Lots of good stuff, coming soon..._
 
 ```
 Tech-Writing-Resource-Hub/
