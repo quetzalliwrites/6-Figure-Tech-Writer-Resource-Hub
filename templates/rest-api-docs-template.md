@@ -1,4 +1,4 @@
-# REST API documentation template (My Little Pony Characters API)
+# REST API Documentation Template (My Little Pony Characters API)
 
 Welcome to the My Little Pony Characters API template! 
 
