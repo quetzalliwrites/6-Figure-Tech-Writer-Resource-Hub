@@ -295,6 +295,10 @@ Each API key is limited to **100 requests per minute**.
 ## Support
 If you encounter any issues or have questions, reach out to your pony friends at [support@mylittleponyapi.com](mailto:support@mylittleponyapi.com)
 
+---
+
+
+
+> FYI, the '80s 'My Little Pony' cartoon is waaay weirder than you remember. 
 
 ![MLP_Movie_VHS_80s](https://github.com/user-attachments/assets/86e2c977-3222-4ad4-a80a-9dc4e7bc65fb)
-> FYI, the '80s 'My Little Pony' cartoon is waaay weirder than you remember. 
