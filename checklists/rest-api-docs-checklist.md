@@ -1,4 +1,4 @@
-# REST API Documentation Checklist
+# REST API Documentation Checklist (My Little Pony Characters)
 
 My following REST API checklist is specifically tailored for REST API documentation. It focuses on the essential components required when documenting REST APIs, such as endpoints, authentication, request/response formats, and error codes.
 
