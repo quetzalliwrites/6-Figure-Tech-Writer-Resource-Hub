@@ -106,3 +106,7 @@ Use this checklist to ensure your **She-Ra Characters GraphQL API** documentatio
 
 ---
 
+
+> The 80s She-Ra's Collector's Checklist... a different kind of checklist!
+
+![SheRa-collecters-checklist](https://github.com/user-attachments/assets/7fef779e-762f-4855-b3e2-ad00481d3d42)
