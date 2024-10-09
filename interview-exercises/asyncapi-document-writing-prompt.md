@@ -1,4 +1,4 @@
-# Technical Writing Interview Exercise (AsyncAPI documents)
+# Technical Writing Interview Exercise (`AsyncAPI document`)
 
 🎉 Welcome to this technical writing exercise designed to test your writing/editing abilities to turn messy, chaotic content into a clear, valuable document.
 
