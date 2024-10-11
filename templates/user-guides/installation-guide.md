@@ -1,8 +1,8 @@
-# Installation Guide for [Software/Tool Name]
+# Installation Guide for [software/tool name] 
 
-Welcome to the **[Software/Tool Name] Installation Guide**! 
+Welcome to the **[software/tool name] installation guide** template! 
 
-The following guide will walk you through the steps required to install **[Software/Tool Name]** on your system.
+The following guide will walk you through the steps required to install **[software/tool name]** on your system.
 
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
@@ -18,7 +18,7 @@ The following guide will walk you through the steps required to install **[Softw
 
 ## Prerequisites
 
-Before installing **[Software/Tool Name]**, ensure the following requirements are met:
+Before installing **[software/tool name]**, ensure the following requirements are met:
 
 - **Operating System**: [Supported OS versions (e.g., Windows 10, macOS 11, Ubuntu 20.04)]
 - **Dependencies**:
@@ -29,7 +29,7 @@ Before installing **[Software/Tool Name]**, ensure the following requirements ar
 
 ## Download
 
-Download **[Software/Tool Name]** from the official source:
+Download **[software/tool name]** from the official source:
 
 - **Download URL**: [Provide the official download link]
 - **File Type**: [Specify file type (e.g., .exe, .dmg, .tar.gz)]
@@ -39,7 +39,7 @@ Download **[Software/Tool Name]** from the official source:
 
 ## Installation Steps
 
-Follow these steps to install **[Software/Tool Name]** on your system:
+Follow these steps to install **[software/tool name]** on your system:
 
 ### Step 1: [Step Title]
 1. **Instruction 1**: [Describe the first step]
@@ -60,7 +60,7 @@ Follow these steps to install **[Software/Tool Name]** on your system:
 
 ## Configuration
 
-After installing **[Software/Tool Name]**, follow these steps to configure it:
+After installing **[software/tool name]**, follow these steps to configure it:
 
 1. **Open the Configuration File**: [Specify the location of the configuration file, if applicable]
 2. **Modify the Following Settings**:
@@ -72,7 +72,7 @@ After installing **[Software/Tool Name]**, follow these steps to configure it:
 
 ## Verification
 
-Verify that **[Software/Tool Name]** is installed and working correctly:
+Verify that **[software/tool name]** is installed and working correctly:
 
 1. **Run the Following Command**:
    ```bash
@@ -88,7 +88,7 @@ Verify that **[Software/Tool Name]** is installed and working correctly:
 
 ## Uninstallation (Optional)
 
-If you need to uninstall **[Software/Tool Name]**, follow these steps:
+If you need to uninstall **[software/tool name]**, follow these steps:
 
 1. **Step 1**: [Describe the first step]
 2. **Step 2**: [Describe the second step]
@@ -100,11 +100,11 @@ If you need to uninstall **[Software/Tool Name]**, follow these steps:
 
 Encountering issues? Here are some common problems and how to resolve them:
 
-### Problem 1: [Describe the Issue]
+### Problem 1: [Describe the issue]
 - **Cause**: [Explain what might be causing the issue]
 - **Solution**: [Provide steps to resolve the issue]
 
-### Problem 2: [Describe the Issue]
+### Problem 2: [Describe the issue]
 - **Cause**: [Explain what might be causing the issue]
 - **Solution**: [Provide steps to resolve the issue]
 
