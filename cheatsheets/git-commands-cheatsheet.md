@@ -1,6 +1,6 @@
-# 🏆 Git Cheatsheet
+# 🏆 Common Git Commands: Cheatsheet
 
-My cheatsheet documents common Git commands used in documentation workflows.
+My cheatsheet documents common Git commands you'll need for documentation workflows.
 
 
 | Command                                  | Description                                                                                   |
