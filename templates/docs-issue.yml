@@ -26,5 +26,5 @@ body:
       label: Code of Conduct
       description: You agree to follow our [Code of Conduct]() by submitting this issue.
       options:
-        - label: I agree to follow this project's Code of Conduct
+        - label: I agree to follow this project's Code of Conduct.
           required: true
