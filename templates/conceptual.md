@@ -15,7 +15,19 @@ Explain the history or origin of the concept, including any relevant context:
 - Key points
 - Relevant processes, workflows, etc.
 
-Include diagrams or visuals to help clarify the explanation.
+Include diagrams like [MermaidJS](https://mermaid.js.org/) or visuals to help clarify the explanation.
+
+```mermaid
+graph TD;
+    A[Background Context] --> B[How it works]
+    A --> C[Key points]
+    A --> D[Relevant processes]
+
+    style A fill:#FFB7B2,stroke:#333,stroke-width:2px
+    style B fill:#B2D7FF,stroke:#333,stroke-width:2px
+    style C fill:#B2FFC8,stroke:#333,stroke-width:2px
+    style D fill:#FFD1B2,stroke:#333,stroke-width:2px
+```
 
 
 ## Use Cases
