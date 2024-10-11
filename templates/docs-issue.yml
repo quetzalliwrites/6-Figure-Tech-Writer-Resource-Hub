@@ -1,0 +1,30 @@
+name: 📑 docs
+description: Propose a doc change or improvement.
+labels: "📑 docs"
+title: "[📑 docs]: "
+assignees: quetzalliwrites
+  - 
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for contributing to our docs. We appreciate your feedback, ideas, and contributions! 
+        
+        Before you submit a new docs issue, please check if there's already a similar issue open in the [docs agile board]().
+  
+  - type: textarea
+    id: reason-context
+    attributes:
+      label: What docs changes are you proposing?
+      description: Why do the docs need this improvement? What is the motivation for this change? How will this change benefit users?
+      placeholder: "I would like to contribute to the docs by..."
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: You agree to follow our [Code of Conduct]() by submitting this issue.
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
