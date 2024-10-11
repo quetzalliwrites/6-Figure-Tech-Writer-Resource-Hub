@@ -1,4 +1,4 @@
-# Installation Guide for [software/tool name] 
+# Installation Guide Template
 
 Welcome to the **[software/tool name] installation guide** template! 
 
