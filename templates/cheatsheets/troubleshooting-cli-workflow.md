@@ -1,3 +1,5 @@
+> _note:_ Here’s an example of the below template customized to [document Docker troubleshooting workflows](https://github.com/quetzalliwrites/technical-writing-portfolio/blob/main/docs/reference/docker-cli-troubleshooting-workflows.md).
+
 # Troubleshooting Workflows CLI Cheatsheet
 
 Welcome to the **[CLI Name] Troubleshooting Cheatsheet**! This guide provides essential commands to help you diagnose and resolve issues in your **[environment/system]** using the **[CLI Name]**.
