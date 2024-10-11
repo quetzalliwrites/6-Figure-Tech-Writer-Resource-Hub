@@ -1,0 +1,37 @@
+name: docs bug report 🐞
+description: Report doc mistakes and/or bugs.
+title: "[docs bug report 🐞]: "
+labels: "🐞 docs bug"
+assignees: quetzalliwrites
+  - 
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for reporting docs mistakes and/or bugs. We appreciate your contribution! 🙂
+        
+        Before filing this docs bug report, please check if someone has already filed this bug report in our [docs agile board]().
+  - type: textarea
+    id: describe-bug
+    attributes:
+      label: Describe the docs bug you found.
+      description: Is there a bug in one of our code snippets? Did we explain a concept incorrectly? Please share a clear and concise description of the bug or mistake.
+      placeholder: "I would like to file a docs bug report 🐞 about..."
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce-bug
+    attributes:
+      label: Attach any resources that can help us understand the issue.
+      description: Send us screenshots, direct quotes of the text that has issues, a link to the GitHub repository with project that has issues, etc. Help us reproduce this docs issue.
+      placeholder: "Please find attached a screenshot of the text with issues..."
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: You agree to follow our [Code of Conduct]() by submitting this issue.
+      options:
+        - label: I agree to follow this project's Code of Conduct.
+          required: true
