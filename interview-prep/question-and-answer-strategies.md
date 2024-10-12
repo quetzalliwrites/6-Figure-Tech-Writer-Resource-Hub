@@ -8,7 +8,8 @@ Introducing **“Common Tech Writing Interview Questions: What They ACTUALLY Mea
 
 ## Table of Contents
 1. [Tell me about yourself](#-question-1-tell-me-about-yourself)
-2. [How do you prioritize multiple documentation projects with tight deadlines?](#-question-2-How-do-you-prioritize-multiple-documentation-projects-with-tight-deadlines) 
+2. [How do you prioritize multiple documentation projects with tight deadlines?](#-question-2-how-do-you-prioritize-multiple-documentation-projects-with-tight-deadlines)
+3. [What are you building?](#-question-3-what-are-you-building) 
 
 ---
 
@@ -82,6 +83,38 @@ _Communication is key, so I regularly check in with stakeholders, like product m
 
 _To stay organized, I use project management tools like Jira, GitHub Boards, and Trello, where I break down tasks into smaller subtasks. I also practice time-blocking to dedicate focused time to each project. For example, when I had to document AsyncAPI's major v3 release and create onboarding guides simultaneously, I identified the most time-sensitive tasks. I tackled those first while setting realistic expectations with stakeholders. My approach helped me meet all deadlines without compromising quality._
 
+
+---
+
+### 🐱 **Question 3**: `"What are you building?"`
+
+### 😈 **What the question ACTUALLY means**:
+When interviewers ask this, they want to understand:
+- **What you're actively working on**: Could be a coding project, a new content initiative, a knowledge base, or a documentation improvement.
+- **How you approach creating value**: Are you building things that help solve problems, improve processes, or educate users?
+- **Your passion and initiative**: They want to see if you're actively involved in creating things beyond your day-to-day tasks.
+
+### 🛠️ **Answer strategy**:
+1. **Broaden the definition of "building"**:
+   - Recognize that "building" isn't limited to code or automation scripts. It can also mean developing content resources, implementing new processes, or creating educational materials.
+   
+2. **Talk about a relevant project**:
+   - Share what you're actively building, even if it's not a code-heavy project. It could be a knowledge base, a style guide, or a documentation framework.
+   - Explain why you decided to work on it and the value it brings.
+
+3. **Emphasize problem-solving and value creation**:
+   - Highlight how what you're building addresses a specific need, solves a problem, or adds value to the organization or the community.
+
+4. **Connect it to the role**:
+   - Relate the project you're building to the skills or responsibilities required for the position you're applying for. This demonstrates alignment between your work and the job's needs.
+     
+
+### 🧠 **Sample answer**:
+_When people think of 'building,' they often picture software projects or code, but building also means creating valuable resources or improving workflows. I’m currently building a knowledge base and resource hub for tech writers called the '6-Figure Tech Writer Resource Hub.' It’s a collection of educational materials, templates, and code examples aimed at helping tech writers elevate their skills and careers._
+
+_The idea came from my own experience—realizing that tech writers often lack structured resources to grow quickly. This hub helps writers improve their documentation skills and teaches them how to navigate the current job market. I’m passionate about it because it combines my love for writing with my desire to empower others in the tech field._
+
+_I see this as directly relevant to the role here, where a big part of the job is building resources and documentation that help customers and developers succeed._
 
 ---
 
