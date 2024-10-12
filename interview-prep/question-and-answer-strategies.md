@@ -86,7 +86,7 @@ _To stay organized, I use project management tools like Jira, GitHub Boards, and
 
 ---
 
-### 🐱 **Question 3**: `"What are you building?"`
+## 🐱 **Question 3**: `"What are you building?"`
 
 ### 😈 **What the question ACTUALLY means**:
 When interviewers ask this, they want to understand:
@@ -112,7 +112,7 @@ When interviewers ask this, they want to understand:
 ### 🧠 **Sample answer**:
 _When people think of 'building,' they often picture software projects or code, but building also means creating valuable resources or improving workflows. I’m currently building a knowledge base and resource hub for tech writers called the '6-Figure Tech Writer Resource Hub.' It’s a collection of educational materials, templates, and code examples aimed at helping tech writers elevate their skills and careers._
 
-_The idea came from my own experience—realizing that tech writers often lack structured resources to grow quickly. This hub helps writers improve their documentation skills and teaches them how to navigate the current job market. I’m passionate about it because it combines my love for writing with my desire to empower others in the tech field._
+_The idea came from my own experience—realizing that tech writers often lack structured resources to grow quickly. This hub helps writers improve their documentation skills and teaches them how to navigate the current job market. I’m passionate about it because it combines my love for technical writing with my desire to empower others in the tech field._
 
 _I see this as directly relevant to the role here, where a big part of the job is building resources and documentation that help customers and developers succeed._
 
