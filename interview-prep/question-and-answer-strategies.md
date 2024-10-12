@@ -9,7 +9,9 @@ Introducing **“Common Tech Writing Interview Questions: What They ACTUALLY Mea
 ## Table of Contents
 1. [Tell me about yourself](#-question-1-tell-me-about-yourself)
 2. [How do you prioritize multiple documentation projects with tight deadlines?](#-question-2-how-do-you-prioritize-multiple-documentation-projects-with-tight-deadlines)
-3. [What are you building?](#-question-3-what-are-you-building) 
+3. [What are you building?](#-question-3-what-are-you-building)
+4. [How do you write or edit code snippets for documentation?](#-question-4-how-do-you-write-or-edit-code-snippets-for-documentation)
+
 
 ---
 
@@ -115,6 +117,36 @@ _When people think of 'building,' they often picture software projects or code, 
 _The idea came from my own experience—realizing that tech writers often lack structured resources to grow quickly. This hub helps writers improve their documentation skills and teaches them how to navigate the current job market. I’m passionate about it because it combines my love for technical writing with my desire to empower others in the tech field._
 
 _I see this as directly relevant to the role here, where a big part of the job is building resources and documentation that help customers and developers succeed._
+
+---
+
+
+## 🐱 **Question 4**: `"How do you write or edit code snippets for documentation?"`
+
+### 😈 **What the question ACTUALLY means**:
+When interviewers ask this, they want to understand:
+- **Your familiarity with code**: Can you write or edit code independently?
+- **How you ensure accuracy**: What methods do you use to validate or test code snippets?
+- **Your problem-solving skills**: How do you handle issues when unsure how to fix or improve the code?
+
+### 🛠️ **Answer strategy**:
+1. **Mention your general approach to handling code snippets**:
+   - Explain you are comfortable working with code and have experience writing or editing code snippets for documentation.
+   - Mention specific programming languages or frameworks relevant to the job.
+
+2. **Describe how you use AI tools for efficiency**:
+   - Explain that AI tools like ChatGPT or Copilot assist you in walking through writing or updating code snippets step by step.
+   - Describe how you use these tools to get a head start on understanding the code or troubleshooting issues, reducing the need to rely on engineers for basic tasks.
+
+3. **Highlight the importance of testing and verification**:
+   - Emphasize that even when using AI tools, you ensure the snippets are accurate by testing them in a local environment or using automated testing frameworks.
+   - Mention that you still collaborate with engineers for a final review or complex issues, but using AI allows you to be more self-sufficient.
+
+
+### 🧠 **Sample answer**:
+_When I write or edit code snippets for documentation, I start by understanding the purpose and context of the code. I use AI tools like ChatGPT or Copilot to guide me through the process step by step, especially when adding new functionality or troubleshooting existing scripts. It allows me to quickly identify the right approach without relying on engineers for help with every small detail._
+
+_After using the AI tool to generate or update the code, I test the snippet in a local environment to verify that it works as expected. For instance, if it's an API call, I'll run the request and check the response. While I can usually handle most tasks independently, I collaborate with engineers to ensure accuracy for more complex scenarios. This approach has helped me become more self-sufficient while maintaining high-quality documentation._
 
 ---
 
