@@ -7,8 +7,8 @@ Introducing **“Common Tech Writing Interview Questions: What They ACTUALLY Mea
 ---
 
 ## Table of Contents
-1. [Tell me about yourself](##tell-me-about-yourself)
-2. [How do you prioritize multiple documentation projects with tight deadlines?](##How-do-you-prioritize-multiple-documentation-projects-with-tight-deadlines)
+1. [Tell me about yourself](#-question-1-tell-me-about-yourself)
+2. [How do you prioritize multiple documentation projects with tight deadlines?](#-question-2-How-do-you-prioritize-multiple-documentation-projects-with-tight-deadlines) 
 
 ---
 
