@@ -1,3 +1,6 @@
+![QW LinkedIn banner (7)](https://github.com/user-attachments/assets/41af61d9-1866-4b90-b7fe-9d6bd0e00de4)
+
+
 # The `6-Figure Tech Writer` Resource Hub ⭐📄
 
 _Lots more good stuff, coming soon..._
