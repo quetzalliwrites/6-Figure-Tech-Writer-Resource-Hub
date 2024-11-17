@@ -3,10 +3,16 @@
 
 # The `6-Figure Tech Writer` Resource Hub ⭐📄
 
-_Lots more good stuff, coming soon..._
+Welcome! 
+
+Here is the current roadmap for this growing Resource Hub. Please feel free to fork this repo and open a pull request if you'd like to suggest additional resources or topics.
+
+Happy documenting,
+
+Quetzalli
 
 ```
-Tech-Writing-Resource-Hub/
+Tech-Writing-Resource-Hub-Roadmap/
 │
 ├── README.md                    # Overview of the repo and how to use it
 ├── CONTRIBUTING.md               # Guidelines for how others can contribute
