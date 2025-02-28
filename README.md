@@ -3,9 +3,9 @@
 
 # The `6-Figure Tech Writer` Resource Hub ⭐📄
 
-Welcome! 
+Welcome Beautiful People!!!!
 
-Here is the current roadmap for this growing Resource Hub. Please feel free to fork this repo and open a pull request if you'd like to suggest additional resources or topics.
+Here is the current roadmap for this growing Resource Hub! Please feel free to fork this repo and open a pull request if you'd like to suggest additional resources or topics.
 
 Happy documenting,
 
